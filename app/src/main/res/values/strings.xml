@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MySplashScreen</string>
+    <string name="login_button">Login</string>
+    <string name="greating_tag">Hi</string>
+    <string name="app_name_info">Catatan Hari Ini</string>
+    <string name="username">username</string>
+</resources>
